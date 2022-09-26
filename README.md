@@ -1,6 +1,6 @@
 # Exploring the Relationship between Social Media Sentiment and Bitcoin
 ### Team Members
-Trinity Davies, Joe Lazzarini, Robert Belovodskij, Nihar Shah
+Robert Belovodskij, Trinity Davies, Joe Lazzarini, Nihar Shah
 
 ### Video Link: [Here](https://youtu.be/_HKf9gOEAuU)
 
